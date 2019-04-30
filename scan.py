@@ -28,7 +28,7 @@ def Search():
                 else:
                         print "FOUND! = ",req_link
 def Desktop():
-       Space(7);  print "[™]=====================================[™]"
+       
        Space(7);  print "[®]********* SCANNING WEB VULN *********[®]"
        Space(7);  print "[©]*************MR.W4HYU****************[©]"
        Space(7);  print "[®]******indonesian error system********[®]"
