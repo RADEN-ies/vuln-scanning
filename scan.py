@@ -10,8 +10,8 @@ def Space(j):
                 print " ",
                 i+=1
 def Search():
-        f = open("vuln.txt","r");
-        link = raw_input("MASUKAN DOMAIN TARGET: ")
+        f = open("list.txt","r");
+        link = raw_input("masukan website: ")
         print "\n\nOUTPUT : \n"
         while True:
                 sub_link = f.readline()
@@ -28,8 +28,12 @@ def Search():
                 else:
                         print "FOUND! = ",req_link
 def Desktop():
-       Space(7);  print "[--------- VULN SCANNING -------]"
-       Space(7);  print "[----------- TUAN B4DUT -----------]"
-       Space(7);  print "[------- https://cyberline.ml -----]"
+       Space(7);  print "[™]=====================================[™]"
+       Space(7);  print "[®]********* SCANNING WEB VULN *********[®]"
+       Space(7);  print "[©]*************MR.W4HYU****************[©]"
+       Space(7);  print "[®]******indonesian error system********[®]"
+       Space(7);  print "[™]=====================================[™]"
+       Space(7);  print         "|_______||V. 10 ||______|"
+       space(7);  print                 "||______||" 
 Desktop()
 Search()
